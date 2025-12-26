@@ -23,3 +23,6 @@ Script is configured to keep root access for a number of accounts such as a help
  # Restore_root
 The exact opposite of the previous script.
 Used to restore root access to the primary user on a JAMF managed MacBook.
+
+ # Disable_AirDop
+Disables the AirDrop on Macbooks. Kills Finder to force immediate effect. 
