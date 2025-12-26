@@ -26,3 +26,8 @@ Used to restore root access to the primary user on a JAMF managed MacBook.
 
  # Disable_AirDop
 Disables the AirDrop on Macbooks. Kills Finder to force immediate effect. 
+
+ # SSH_enable
+Enables SSH for a specified admin user, preferrably a LAPS enabled user. 
+Intended to be used in specific edge cases where user is remote and their work shouldn't be disturbed, hence why this is not pushing for tools like JAMF remote assist.
+Enabled SSH globally on the MacBookl, but restricts it only to the specific admin user.
