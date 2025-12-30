@@ -1,4 +1,4 @@
-# JAMF-scripts
+ # Explanation for each script in this repo.
 
  # Naming+ 
 This script handles standardized naming of devices in the JAMF management environment. 
@@ -40,3 +40,6 @@ Restores access for the primary user, does not modify anything for specified sys
 
  # Disable_user_login
 Restricts logins to the device for the primary logged in user. Excludes specified users like LAPS enabled admin accounts or Help Desk accounts. 
+
+ # Restore_user_login
+Restores access to the device for the primary user. 
