@@ -37,8 +37,13 @@ Restricts access to the Macbook to all users apart from ones specified in the sc
 
  # Restore_access
 Restores access for the primary user, does not modify anything for specified system accounts. 
+ 
  # Extension_attributes
 A combination of different extension attributes that I implemented for better tracking and sorting of devices 
+ 
  # JetBrainsApps_ChangeOwnership
 Temproray fix to resolve issue where primary user can't upgrade their JetBrains apps ( can work for IntelliJ, PhpStorm, Pycharm etc.... )
 Ownership is removed after 1-2 version upgrades.
+
+ #Global_Protect_uninstall
+Complete uninstall of Global Protect VPN client.
