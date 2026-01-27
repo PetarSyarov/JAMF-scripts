@@ -45,5 +45,5 @@ A combination of different extension attributes that I implemented for better tr
 Temproray fix to resolve issue where primary user can't upgrade their JetBrains apps ( can work for IntelliJ, PhpStorm, Pycharm etc.... )
 Ownership is removed after 1-2 version upgrades.
 
- #Global_Protect_uninstall
+ # Global_Protect_uninstall
 Complete uninstall of Global Protect VPN client.
